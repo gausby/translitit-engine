@@ -34,10 +34,12 @@ This is all there is to it. Keep reusing the same transliteration instance to al
 The following projects use the translitit engine:
 
   * [translitit-cyrillic-russian-to-latin][translitit-cyrillic-russian-to-latin]
+  * [translitit-cyrillic-ukrainian-to-latin][translitit-cyrillic-ukrainian-to-latin]
 
 **Notice**: Please follow the same naming structure if you create your own transliteration table, and add it to this list and create a pull request.
 
-[translitit-cyrillic-russian-to-latin]: https://github.com/gausby/translitit-cyrillic-russian-to-latin
+[translitit-cyrillic-russian-to-latin]: https://github.com/gausby/translitit-cyrillic-russian-to-latin/
+[translitit-cyrillic-ukrainian-to-latin]: https://github.com/gausby/translitit-cyrillic-ukrainian-to-latin/
 
 
 ## How it works
