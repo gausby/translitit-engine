@@ -1,6 +1,6 @@
 {
     "name": "translitit-engine",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A simple transliteration engine",
     "author": "Martin Gausby <martin@gausby.dk>",
     "repository": "git@github.com:gausby/translitit-engine.git",
