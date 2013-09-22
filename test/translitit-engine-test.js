@@ -4,8 +4,8 @@
 
 var translitit = require('../lib/translitit-engine'),
     buster = require('buster'),
-    assert = buster.assertions.assert,
-    refute = buster.assertions.refute
+    assert = buster.referee.assert,
+    refute = buster.referee.refute
 ;
 
 buster.testCase('A translit engine', {
