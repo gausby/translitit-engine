@@ -35,12 +35,13 @@ The following projects use the translitit engine:
 
   * [translitit-cyrillic-russian-to-latin][translitit-cyrillic-russian-to-latin]
   * [translitit-cyrillic-ukrainian-to-latin][translitit-cyrillic-ukrainian-to-latin]
+  * [translitit-latin-to-mkhedruli-georgian][translitit-latin-to-mkhedruli-georgian]
 
 **Notice**: Please follow the same naming structure if you create your own transliteration table, and add it to this list and create a pull request.
 
 [translitit-cyrillic-russian-to-latin]: https://github.com/gausby/translitit-cyrillic-russian-to-latin/
 [translitit-cyrillic-ukrainian-to-latin]: https://github.com/gausby/translitit-cyrillic-ukrainian-to-latin/
-
+[translitit-latin-to-mkhedruli-georgian]: https://github.com/batumi/translitit-latin-to-mkhedruli-georgian
 
 ## How it works
 It creates a regular expression from the given transliteration table object. This regular expression is used in the returned function to find and replace occurrences in the given input string.
